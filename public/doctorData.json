@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/v6hVM8j7/doc1.jpg",
+      "name": "Dr. Ayesha Rahman",
+      "education": "MBBS, FCPS (Medicine)",
+      "speciality": "Internal Medicine",
+      "experience": "10 years",
+      "registrationNumber": "BMC12345"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/C51c41n7/doc2.jpg",
+      "name": "Dr. Mahmud Hasan",
+      "education": "MBBS, MS (Surgery)",
+      "speciality": "General Surgery",
+      "experience": "8 years",
+      "registrationNumber": "BMC23456"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/G4vpqhjf/doc3.jpg",
+      "name": "Dr. Tanvir Alam",
+      "education": "MBBS, MD (Cardiology)",
+      "speciality": "Cardiology",
+      "experience": "12 years",
+      "registrationNumber": "BMC34567"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/bgCqsnzH/doc4.jpg",
+      "name": "Dr. Nasrin Jahan",
+      "education": "MBBS, DGO",
+      "speciality": "Gynecology",
+      "experience": "9 years",
+      "registrationNumber": "BMC45678"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/xSJ0H6WH/doc5.jpg",
+      "name": "Dr. Imran Hossain",
+      "education": "MBBS, MD (Neurology)",
+      "speciality": "Neurology",
+      "experience": "11 years",
+      "registrationNumber": "BMC56789"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/Nn99CfMW/doc6.jpg",
+      "name": "Dr. Farzana Akter",
+      "education": "MBBS, FCPS (Dermatology)",
+      "speciality": "Dermatology",
+      "experience": "7 years",
+      "registrationNumber": "BMC67890"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/7J9ZNs7K/doc7.jpg",
+      "name": "Dr. Rafiq Islam",
+      "education": "MBBS, MS (Orthopedics)",
+      "speciality": "Orthopedic Surgery",
+      "experience": "13 years",
+      "registrationNumber": "BMC78901"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/QjMGNnxP/doctor-main-banner.webp",
+      "name": "Dr. Tahmina Sultana",
+      "education": "MBBS, FCPS (Pediatrics)",
+      "speciality": "Pediatrics",
+      "experience": "6 years",
+      "registrationNumber": "BMC89012"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/YBmZXkMR/images-q-tbn-ANd9-Gc-ST2-DIw-FY-o-KUwag-Mh0-Rx9-B6-Wy0k7x-R0-L-lvg-s.jpg",
+      "name": "Dr. Kamrul Ahsan",
+      "education": "MBBS, MD (Psychiatry)",
+      "speciality": "Psychiatry",
+      "experience": "15 years",
+      "registrationNumber": "BMC90123"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co.com/6cwTVDwk/doctor-campbell.jpg",
+      "name": "Dr. Laila Noor",
+      "education": "MBBS, MS (ENT)",
+      "speciality": "ENT Specialist",
+      "experience": "5 years",
+      "registrationNumber": "BMC01234"
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/1tcBNrTH/doctor-sample.png",
+      "name": "Dr. Anisur Rahman",
+      "education": "MBBS, MD (Nephrology)",
+      "speciality": "Nephrology",
+      "experience": "10 years",
+      "registrationNumber": "BMC34512"
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/4nksc9Gt/banner-img-1.png",
+      "name": "Dr. Shirin Akhter",
+      "education": "MBBS, FCPS (Ophthalmology)",
+      "speciality": "Eye Specialist",
+      "experience": "14 years",
+      "registrationNumber": "BMC78923"
+    }
+  ]
+  

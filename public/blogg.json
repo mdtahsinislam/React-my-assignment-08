@@ -1,0 +1,28 @@
+[
+    {
+      "question": "What is useState and how does it work in React?",
+      "answer": "useState is a Hook that lets you add state to functional components in React. You call it inside a component and pass an initial value. It returns an array with two elements: the current state and a function to update that state. For example: const [count, setCount] = useState(0);",
+      "dateAdded": "2025-04-24"
+    },
+    {
+      "question": "What is the purpose of useEffect in React?",
+      "answer": "useEffect is a Hook that lets you perform side effects in function components. It replaces lifecycle methods like componentDidMount, componentDidUpdate, and componentWillUnmount. You can use it to fetch data, directly update the DOM, set up subscriptions, etc.",
+      "dateAdded": "2025-04-24"
+    },
+    {
+      "question": "What is a custom hook in React and when should you use one?",
+      "answer": "A custom hook is a JavaScript function that starts with 'use' and can call other hooks. You use them to extract and reuse stateful logic across multiple components, keeping your code cleaner and more maintainable. For example, useAuth or useFetch.",
+      "dateAdded": "2025-04-24"
+    },
+    {
+      "question": "Difference between controlled and uncontrolled components? Which one is better?",
+      "answer": "Controlled components are form elements whose value is controlled by React state. Uncontrolled components rely on the DOM to manage their own state using refs. Controlled components are preferred for consistent, predictable behavior and easier validation, but uncontrolled may be simpler for quick forms.",
+      "dateAdded": "2025-04-24"
+    },
+    {
+      "question": "Tell us something about useFormStatus() (explore and explain)",
+      "answer": "useFormStatus is a hook from the React experimental/next feature set used primarily with the <form> element when using React Server Components (RSC). It provides real-time feedback on form submission status, like whether the form is pending or has errors. This is useful for showing spinners, disabling buttons, or giving user feedback during submission.",
+      "dateAdded": "2025-04-24"
+    }
+  ]
+  
