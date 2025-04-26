@@ -29,6 +29,7 @@ import { Outlet, useLocation } from 'react-router-dom';
 import Navbar from '../../commponents/Header/Navbar';
 import Footer from '../../commponents/Footer/Footer';
 import Last from '../../commponents/Last/Last';
+import ErrorPage from '../ErrorPage/ErrorPage';
 
 const Root = () => {
     const location = useLocation();
@@ -38,9 +39,11 @@ const Root = () => {
     return (
         <div>
             <Navbar />
-            <Outlet />
+            <Outlet /> 
+            <ErrorPage></ErrorPage>
             {/* {showLast && <Last />} */}
-            {showLast && <Last></Last>}
+            {showLast && <Last></Last>} 
+          
             <Footer />
         </div>
     );

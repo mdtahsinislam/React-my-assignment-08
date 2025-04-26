@@ -3,7 +3,7 @@ import React from 'react';
 const ErrorPage = () => {
     return (
         <div>
-            <div className="bg-white rounded-md p-6 shadow-md text-center">
+            {/* <div className="bg-white rounded-md p-6 shadow-md text-center">
   <h2 className="text-xl font-semibold text-red-500 mb-2">No Doctor Found!!</h2>
   <p className="text-gray-600 text-sm mb-4">No Doctor Found with this registration No-</p>
   <div className="flex items-center justify-center mb-4">
@@ -15,7 +15,7 @@ const ErrorPage = () => {
   <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
     View All Doctors
   </button>
-</div>
+</div> */}
         </div>
     );
 };

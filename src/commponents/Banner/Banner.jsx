@@ -66,14 +66,14 @@ const Banner = () => {
       <div className="relative overflow-hidden rounded-lg shadow-lg">
         <img
           className="object-cover w-full h-full"
-          src="./src/assets/banner-img-1.png"
+          src="https://i.ibb.co.com/1YXDVwRk/banner-img-1.png"
           alt="Doctor and Patient"
         />
       </div>
       <div className="relative overflow-hidden rounded-lg shadow-lg ">
         <img
           className="object-cover w-full h-full"
-          src="./src/assets/banner-img-1.png"
+          src="https://i.ibb.co.com/1YXDVwRk/banner-img-1.png"
           alt="Another Doctor and Patient"
         />
       </div>
