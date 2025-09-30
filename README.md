@@ -6,13 +6,13 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# 🏥 Medical Appointment Booking Application
+# 🎯Medical Appointment Booking Application
 ## Repo : https://github.com/mdtahsinislam/React-my-assignment-08
 ## live link : http://tahsin-react08.surge.sh/
 
 ---
 
-## Medical Appointment Booking Application
+## 🏥  Medical Appointment Booking Application
 
 Build A React-based web application for scheduling and managing doctor appointments. The application includes multiple pages, data persistence, interactive UI elements, routing, and visual representation using charts.
 
